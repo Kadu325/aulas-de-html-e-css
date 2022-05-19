@@ -1,0 +1,14 @@
+#title, .subtitle, .post_titulo {
+    color: blanchedalmond;
+}
+html {
+background-color: black;    
+}
+.texto_principal {
+    color: azure;
+    font-size: 14px;
+    font-family: Arial;
+}
+a {
+    text-decoration: none;
+}
